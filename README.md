@@ -6,3 +6,8 @@
 - Doomi.py
 
 도미와 빙어 맞추는 KNN 알고리즘
+
+- U_Net.ipynb
+
+U_Net 예제 파일
+
